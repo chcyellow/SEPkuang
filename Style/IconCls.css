@@ -1,0 +1,41 @@
+﻿.locked
+{
+	background-image: url(locked.gif) !important;
+}
+.x-plain
+{
+	background: #f0edce url('logo.png') no-repeat;
+}
+.yonghuming
+{
+	background-image: url(user.png);
+	background-repeat: no-repeat;
+	padding-left: 20px;
+	background-position: 1px 1px;
+}
+.mima
+{
+	background-image: url(lock.png);
+	background-repeat: no-repeat;
+	padding-left: 20px;
+	background-position: 1px 1px;
+}
+.x-btn-text-icon
+{
+    background-position: 0 center;
+	background-repeat: no-repeat;
+    padding-left:18px;
+    height:16px;
+}
+.google
+{
+	background-image: url(google-chrome.png) !important;
+}
+.ie
+{
+	background-image: url(ie.png) !important;
+}
+.start-button 
+{
+    background-image:url(vista_start_button.gif) !important;
+}

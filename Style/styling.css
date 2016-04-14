@@ -1,0 +1,161 @@
+/* Default Stylesheet */
+
+															/** BODY ELEMENTS **/
+body {
+	color: #333;
+	background-color: #eee;
+	}
+
+
+
+
+
+
+															/** MAIN CONTAINERS **/
+div#container 
+{
+	margin: 1em auto;
+}
+div#header 
+{
+	color: inherit;
+	background-color: #fff;
+	border: 1px solid #e5e5e5;
+	border-width: 0 2px 2px 0;
+}
+#divTop 
+{ 
+	margin:0 auto; 
+}
+
+#topContent
+{
+	width:100%;
+	background-color: #4D92D7;
+	margin-top:0px;
+}
+#div_Top_Caption
+{ 
+	float:left;
+	width: 500px; 
+	height: 100%; 
+	background-color: #cae7fc; 
+}
+
+#divLogo
+{	
+	width:48px; 
+	float:left; 
+	margin:15px 10px 0px 15px;
+	display:inline;
+	border:none;
+	cursor:pointer;
+}
+
+#divCaption
+{
+	width:auto; float:left; margin:10px 0px 0px 0px; width:220px; letter-spacing:1px; color:#4465B1; FONT-SIZE: 17px; 
+	FONT-FAMILY: "Î¢ÈíÑÅºÚ","Ó×Ô²","trebuchet ms","ËÎÌå", "lucida grande", "verdana", "arial", "sans-serif"; 
+}
+
+#divSubCaption
+{
+	width:auto; float:left; margin:2px 0px 0px 0px;  width:220px;color:#666666;FONT-SIZE: 13px; 
+	FONT-FAMILY: "Î¢ÈíÑÅºÚ","Ó×Ô²","trebuchet ms","ËÎÌå", "lucida grande", "verdana", "arial", "sans-serif";
+	line-height: 20px; 
+}
+
+#divNavigate
+{ 
+	height:77px;
+	float:inherit;
+	padding:20px 5px 0px 0px; 
+	text-align:right;  
+	overflow:auto;
+	background-color: #4D92D7;
+}
+#headerMenu
+{
+	
+}
+div#content-wrap 
+{
+	padding: 5px 0;
+	background-color: #cae7fc;
+}
+div.content 
+{
+	color: inherit;
+	background-color: #cae7fc;
+	border: 1px solid #e5e5e5;
+	border-width: 0 2px 2px 0;
+	height:100%;
+}
+div.content-in 
+{
+	padding:0px 5px 0px 0px;
+	background-color: #cae7fc;
+}
+div.column 
+{
+	width: 200px;
+	color: inherit;
+	background-color: #cae7fc;
+	border: 1px solid #e5e5e5;
+	border-width: 0 2px 2px 0;
+}
+div.column-in 
+{
+	padding: 0px 5px 0px 0px;
+	background-color: #cae7fc;
+}
+div#footer 
+{
+	background-color: #cae7fc;
+	left:50px;
+	right:40px; 
+	bottom: 0;
+	text-align: center;
+}
+
+
+table{text-align:left;}
+.wrap {
+	border: 1px solid #326DC9;
+}
+
+
+
+															/** SUB CONTAINERS **/
+* { }
+
+
+
+
+
+
+															/** LISTS **/
+* { }
+
+
+
+
+
+
+															/** TYPOGRAPHY **/
+* { }
+
+
+
+
+
+
+															/** FORMS **/
+* { }
+
+
+
+
+
+
+															/** END **/

@@ -1,0 +1,103 @@
+/* Default Stylesheet */
+
+															/** BODY ELEMENTS **/
+body 
+{
+	padding: 0 0;
+	font-size: .75em;
+	text-align: center;
+	background-color:#cae7fc;
+}															/** MAIN CONTAINERS **/
+div#container 
+{
+	width: 750px;
+	height: 100%;
+	margin: 0 0;
+	text-align: left;
+	background-color:#cae7fc;
+}
+body.fullwidth div#container { width: 100%; }
+div#header 
+{
+		
+}
+div#header-in 
+{
+			
+}
+div#content-wrap 
+{
+	background-color:#cae7fc;		
+}
+div.content 
+{
+			
+}
+div.lcol div.content 	
+{ 
+	margin: 0 0 0 0; 
+}		/* left column */
+div.content-in 
+{
+	background-color:#cae7fc;			
+}
+div.column 
+{
+	width: 200px;
+	background-color:#cae7fc;
+}
+div.lcol div.column 	
+{ 
+	float: left;
+}				/* left column */
+div.column-in 
+{
+	background-color:#cae7fc;			
+}
+div#footer 
+{
+	background-color:#cae7fc;
+}
+div#footer-in 
+{
+	background-color:#cae7fc;		
+}
+
+
+
+
+
+
+															/** SUB CONTAINERS **/
+* { }
+
+
+
+
+
+
+															/** LISTS **/
+* { }
+
+
+
+
+
+
+															/** TYPOGRAPHY **/
+* { }
+
+
+
+
+
+
+															/** FORMS **/
+* { }
+
+
+
+
+
+
+															/** END **/

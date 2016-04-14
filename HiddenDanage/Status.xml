@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- 说明 -->
+ <!-- 说明:
+      manage=1:走动干部可操作
+      manage=2:安检处可操作
+      manage=3:领导、职能部门可操作
+      manage=4:责任部门可操作
+      manage=5:归档，无人可操作
+  -->
+
+<SCM.YH>
+  <status>
+    <value>新增</value>
+    <manage>2</manage>
+  </status>
+  <status>
+    <value>提交审批</value>
+    <manage>3</manage>
+  </status>
+  <status>
+    <value>隐患未整改</value>
+    <manage>4</manage>
+  </status>
+  <status>
+    <value>隐患整改中</value>
+    <manage>4</manage>
+  </status>
+  <status>
+    <value>逾期未整改</value>
+    <manage>2</manage>
+  </status>
+  <status>
+    <value>逾期整改未完成</value>
+    <manage>2</manage>
+  </status>
+  <status>
+    <value>隐患已整改</value>
+    <manage>1</manage>
+  </status>
+  <status>
+    <value>复查通过</value>
+    <manage>5</manage>
+  </status>
+  <status>
+    <value>复查未通过</value>
+    <manage>2</manage>
+  </status>
+  <status>
+    <value>现场整改</value>
+    <manage>2</manage>
+  </status>
+  <!--<status>
+    <value>系统不受理</value>
+    <manage>2</manage>
+  </status>-->
+</SCM.YH>

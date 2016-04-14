@@ -1,0 +1,38 @@
+﻿.Manager13 {
+	FONT-SIZE: 13px; letter-spacing: 1px;FONT-FAMILY: "trebuchet ms","宋体", "lucida grande", "verdana", "arial", "sans-serif";
+	line-height: 20px;
+}
+
+.Manager13r {
+	FONT-SIZE: 13px; letter-spacing: 1px;FONT-FAMILY: "trebuchet ms","宋体", "lucida grande", "verdana", "arial", "sans-serif";
+	line-height: 20px; color:Red;
+}
+
+.Manager13b {
+	FONT-SIZE: 13px; letter-spacing: 1px;FONT-FAMILY: "trebuchet ms","宋体", "lucida grande", "verdana", "arial", "sans-serif";
+	line-height: 20px; font-weight:bold;
+}
+
+.Manager13yr {
+	FONT-SIZE: 13px; letter-spacing: 1px;FONT-FAMILY: "微软雅黑","幼圆","trebuchet ms","宋体", "lucida grande", "verdana", "arial", "sans-serif";
+	line-height: 20px;  color:Red;
+}
+
+.Manager14 {
+	FONT-SIZE: 14px; letter-spacing: 1px;FONT-FAMILY: "微软雅黑","幼圆","trebuchet ms","宋体", "lucida grande", "verdana", "arial", "sans-serif";
+	line-height: 20px;
+}
+
+.Manager14b {
+	FONT-SIZE: 14px; letter-spacing: 1px;FONT-FAMILY: "微软雅黑","幼圆","trebuchet ms","宋体", "lucida grande", "verdana", "arial", "sans-serif";
+	line-height: 20px; font-weight:bold;
+}
+
+.Manager16b{
+	FONT-SIZE: 16px; 
+	letter-spacing: 1px;
+	FONT-FAMILY: "微软雅黑","幼圆","trebuchet ms","宋体", "lucida grande", "verdana", "arial", "sans-serif";
+	line-height: 20px; 
+	font-weight:bold;
+	color:#003366;
+}

@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SEPkuang", "..\SEPkuang", "{792C8173-1872-4395-9FA9-F666DF83A06E}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		Frontpage = "false"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		ProjectReferences = ""
+		Debug.AspNetCompiler.VirtualPath = "/SEP"
+		Debug.AspNetCompiler.PhysicalPath = "..\SEPkuang\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\SEP\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/SEP"
+		Release.AspNetCompiler.PhysicalPath = "..\SEPkuang\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\SEP\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "38044"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://172.30.1.145:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccWebProject1 = true
+		SccProjectUniqueName1 = .
+		SccLocalPath1 = .
+		SccProjectEnlistmentChoice1 = 2
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{792C8173-1872-4395-9FA9-F666DF83A06E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{792C8173-1872-4395-9FA9-F666DF83A06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{792C8173-1872-4395-9FA9-F666DF83A06E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{792C8173-1872-4395-9FA9-F666DF83A06E}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{792C8173-1872-4395-9FA9-F666DF83A06E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{792C8173-1872-4395-9FA9-F666DF83A06E}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{792C8173-1872-4395-9FA9-F666DF83A06E}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{792C8173-1872-4395-9FA9-F666DF83A06E}.Release|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{792C8173-1872-4395-9FA9-F666DF83A06E}.Release|Mixed Platforms.Build.0 = Debug|Any CPU
+		{792C8173-1872-4395-9FA9-F666DF83A06E}.Release|x86.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal

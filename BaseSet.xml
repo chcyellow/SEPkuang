@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<System.Base>
+  <ZY>1</ZY><!-- 辨识单元 -->
+  <GZRW>2</GZRW><!-- 工作任务 -->
+  <GX>3</GX><!-- 工序 -->
+  <PL>27</PL><!-- 频率 -->
+  <SS>34</SS><!-- 损失 -->
+  <SGLX>18</SGLX><!-- 事故类型 -->
+  <FXDJ>12</FXDJ><!-- 风险等级 -->
+  <FXLX>7</FXLX><!-- 风险类型 -->
+  <REN>8</REN><!-- 管理对象-人 -->
+  <GUAN>11</GUAN><!-- 管理对象-管 -->
+  <YHJB>41</YHJB>  <!-- 隐患级别 -->
+  <SWJB>46</SWJB> <!-- 三违级别 -->
+  <SZKSZY>50</SZKSZY><!-- 专业（手指口述） -->
+	<GSDJ>59</GSDJ><!--  工伤等级 -->
+	<SSSF>64</SSSF><!--  所属省份  -->
+	<SSJTGS>83</SSJTGS><!--  所属集团公司 -->
+	<KJLX>71</KJLX><!--  矿井类型 -->
+	<WSDJ>74</WSDJ><!--  瓦斯等级 -->
+	<SGDJ>78</SGDJ><!--  事故等级 -->
+  <SSBW>91</SSBW><!--  受伤部位 -->
+  
+  <ZBSJ>16:00:00</ZBSJ> <!--  早班结束时间,多加2小时及以下 -->
+  <ZHBSJ>23:59:59</ZHBSJ><!--  中班结束时间 -->
+  <WBSJ>08:00:00</WBSJ><!--  晚班结束时间 -->
+
+  <T2>251</T2> <!--  采煤分管领导 -->
+  <T3>252</T3> <!--  掘进分管领导 -->
+  <T4>253</T4> <!--  机电保运分管领导 -->
+  <T5>254</T5> <!--  通防分管领导 -->
+  <T6>256</T6> <!--  通用风险分管领导 -->
+  <T87>255</T87> <!--  地测防治水分管领导 -->
+
+  <T0>257</T0> <!--  大领导 -->
+
+  <FTPServer>127.0.0.1</FTPServer>
+  <FTPUserName>aaa</FTPUserName>
+  <FTPPWD>111</FTPPWD>
+  <FTPFileName>bbb</FTPFileName>
+  
+</System.Base>

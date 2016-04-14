@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script type="text/javascript">
+        function login() {
+                var name = document.getElementById("txtName").value;
+                var password = document.getElementById("txtPwd").value;
+                if (name == "") {
+                    //对用户名输入框进行非空验证
+                    alert("用户名不能为空！");
+                    document.getElementById("txtName").focus();
+                    return false;
+
+                }
+                if (password == "") {
+                    //对密码输入框进行非空验证
+                    alert("密码不能为空！");
+                    document.getElementById("txtPwd").focus();
+                    return false;
+                }    
+        }
+    </script>
+</head>
+<body>
+ <form name="loginhtml" action="Login.aspx"  method="get">
+  <input type="text" id="txtName" name="txtName" />
+  <input type="password" id="txtPwd" name="txtPwd"/>
+  <input type="submit" id="Submit" value="登录" onclick="return login();"/>
+</form>
+</body>
+
+</html>
